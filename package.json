@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/brenolopesmafra/comp3104/issues"
   },
+  "homepage": "https://brenolopesmafra.github.com/comp3104/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
